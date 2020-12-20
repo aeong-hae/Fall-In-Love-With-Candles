@@ -1,0 +1,180 @@
+@media ( max-width: 1813px ) {
+    body { }
+
+    .maintext01{position: absolute; top: 28vh; left: 46vw; }
+    .maintext02{position: absolute; top: 17.4vh; left: 88vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    
+    @media ( max-width: 1753px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 47vw; }
+    .maintext02{position: absolute; top: 17.4vh; left: 88.6vw;}
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+    
+    @media ( max-width: 1697px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 46.8vw; }
+    .maintext02{position: absolute; top: 17.4vh; left: 89.5vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+
+    @media ( max-width: 1631px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 44.3vw; }
+    .maintext02{position: absolute; top: 17.4vh; left: 88.5vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+    
+    @media ( max-width: 1607px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 54vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 90.5vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+    
+    @media ( max-width: 1572px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 53vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 90.3vw;}
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%;}
+    }
+    
+    @media ( max-width: 1539px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 52vw;}
+    .maintext02{position: absolute; top: 16.9vh; left: 90.3vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%;  }
+    }
+    
+    @media ( max-width: 1507px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 51vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 89.8vw;}
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+    
+    @media ( max-width: 1476px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 49vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 88.8vw;}
+    .daytext{position: absolute; top: 66.2%; left: 2%;}
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%;}
+    }
+    
+    @media ( max-width: 1418px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 47.5vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 89vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+    
+    @media ( max-width: 1377px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 46vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 88.4vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+    
+    @media ( max-width: 1339px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 44.5vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 88.4vw;}
+    .daytext{position: absolute; top: 66.2%; left: 2%;  }
+    .subtext01{position: absolute; top: 72%; left: 2%; ; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+    
+    @media ( max-width: 1303px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 42.4vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 87.5vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%; ;}
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%;}
+    }
+    
+    @media ( max-width: 1255px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 40.4vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 87vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%;  }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+    
+    @media ( max-width: 1213px ) {
+    .maintext01{position: absolute; top: 28vh; left: 38vw;}
+    .maintext02{position: absolute; top: 16.9vh; left: 86vw;}
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%;}
+    .nametext{position: absolute; top: 79%; left: 2%;}
+    }
+    
+    @media ( max-width: 1166px ) {
+ 
+    .maintext01{position: absolute; top: 28vh; left: 35.6vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 86vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+    
+    @media ( max-width: 1123px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 33.6vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 86vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+    
+    @media ( max-width: 1089px ) {
+    .line01{max-width: 100%; position: relative; top: 0; left: 0;}
+    .line02{max-width: 100%; position: relative; top: -500px; left: 0;}
+    .line03{max-width: 100%; position: relative; top: -800px; left: 0;}
+    .maintext01{position: absolute; top: 28vh; left: 31.7vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 85.3vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%; }
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%;}
+    }
+    
+    @media ( max-width: 1063px ) {
+
+    .maintext01{position: absolute; top: 28vh; left: 30vw; }
+    .maintext02{position: absolute; top: 16.9vh; left: 85.3vw; }
+    .daytext{position: absolute; top: 66.2%; left: 2%;}
+    .subtext01{position: absolute; top: 72%; left: 2%; }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+    
+    @media ( max-width: 1033px ) {
+    .maintext01{position: absolute; top: 28vh; left: 28vw; color: ; }
+    .maintext02{position: absolute; top: 16.9vh; left: 84.6vw; color: ; }
+    .daytext{position: absolute; top: 66.2%; left: 2%;  }
+    .subtext01{position: absolute; top: 72%; left: 2%;  }
+    .nametext{position: absolute; top: 79%; left: 2%; }
+    }
+    
